@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/4a0cdc92-53f7-4925-bbdd-29aeb234e249)
+
 ## Hi, I'm Hector 👋
 
 * I am a junior full-stack developer from Mexico always excited to learn more.

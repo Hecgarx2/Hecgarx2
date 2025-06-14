@@ -1,5 +1,5 @@
+![banner](https://github.com/user-attachments/assets/ddcba4f2-3f3b-41db-913c-94c3ee846132)
 
-![banner](https://github.com/user-attachments/assets/566271e7-a89a-4d74-a553-dadac2095d0b)
 
 ## Hi, I'm Hector 👋
 

@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/4a0cdc92-53f7-4925-bbdd-29aeb234e249)
+
+![banner](https://github.com/user-attachments/assets/566271e7-a89a-4d74-a553-dadac2095d0b)
 
 ## Hi, I'm Hector 👋
 

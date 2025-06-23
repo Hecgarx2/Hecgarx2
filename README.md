@@ -12,6 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/🔗LinkedIn-Hector_Garcia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hector-garcia-garcia/)
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hecgarx2&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hecgarx2&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hecgarx2&layout=compact&theme=tokyonight)
